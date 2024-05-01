@@ -7,7 +7,9 @@ This guide explains how to use a Rasberry Pi 4B to connect to a Tello drone via 
 
 ## Requirements
 
+- Mac
 - Raspberry Pi 4B
+- Tello Drone
 
 ## (Optional) Setting up a Serial Connection to the Raspberry Pi
 
