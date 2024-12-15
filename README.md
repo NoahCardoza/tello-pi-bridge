@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This guide explains how to use a Rasberry Pi 4B to connect to a Tello drone via Ethernet. This is useful for situations where you'd like your host machine to maintain an Internet connection while communicating with a Tello drone. Usually this isn't possible since the Tello drone broadcasts it's own WiFi and you mush connect your machine to it to communicate with it.
+This guide explains how to use a Rasberry Pi 4B to connect to a Tello drone via Ethernet. This is useful for situations where you'd like your host machine to maintain an Internet connection while communicating with a Tello drone. Usually this isn't possible since the Tello drone broadcasts it's own WiFi and you must connect your machine to it to communicate with it.
 
 
 ## Requirements
